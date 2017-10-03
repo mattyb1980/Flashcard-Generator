@@ -1,0 +1,22 @@
+[
+	{
+		"text": "The Cohen Brothers directed Fargo.",
+		"cloze": "Cohen"
+	},
+	{
+		"text": "Jack Nickelson plays Jack Torrance in Stanley Kubrick's The Shining",
+		"cloze": "Jack Torrance"
+	},
+	{
+		"text": "The novel It, by Stephen King, is about a small town terrorized by a bloodthirsty clown known as Pennywise. ",
+		"cloze": "Stephen King"
+	},
+	{
+		"text": "The novel It, by Stephen King, is about a small town terrorized by a bloodthirsty clown known as Pennywise. ",
+		"cloze": "Stephen King"
+	},
+	{
+		"text": "Tom Cruise drives a 1979 Porsche 928 in the movie Risky Business",
+		"cloze": "Porsche 928"
+	}
+]
